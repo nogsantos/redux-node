@@ -1,0 +1,8 @@
+{
+	"singleQuote": true,
+	"useTabs": true,
+	"printWidth": 135,
+	"tabWidth": 4,
+	"cssEnable": ["sass"],
+	"eslintIntegration": true
+}
